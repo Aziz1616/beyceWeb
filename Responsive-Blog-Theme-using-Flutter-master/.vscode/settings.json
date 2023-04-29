@@ -1,0 +1,4 @@
+{
+    "dart.flutterWebRenderer": "auto",
+    "typescript.experimental.tsserver.web.enableProjectWideIntellisense": true
+}
